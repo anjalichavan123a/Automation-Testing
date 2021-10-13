@@ -1,0 +1,632 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="41" time="0">
+<testcase classname="sign up feature" name="Gift Vouchers ADD button with save" time="0">
+<system-out><![CDATA[Given User is on the Retail application.....................................skipped
+And User enter the username and password....................................skipped
+And click on login button...................................................skipped
+And User navigate to the Dashboard..........................................skipped
+And User click on Button-menue..............................................skipped
+And User click on Sales.....................................................skipped
+Then user click on Gift Vouchers............................................skipped
+And user click on inner Gift Vouchers.......................................skipped
+And user click on add button................................................skipped
+And user enter "1234837","aaa","www@gmail.com","as","awer@gmail.com","good","123".skipped
+And user select Theme,Status................................................skipped
+And click on save button....................................................skipped
+Then check the display message of gift voucher..............................skipped
+]]></system-out>
+</testcase>
+<testcase classname="sign up feature" name="Gift Vouchers ADD button with save 2" time="0">
+<system-out><![CDATA[Given User is on the Retail application.....................................skipped
+And User enter the username and password....................................skipped
+And click on login button...................................................skipped
+And User navigate to the Dashboard..........................................skipped
+And User click on Button-menue..............................................skipped
+And User click on Sales.....................................................skipped
+Then user click on Gift Vouchers............................................skipped
+And user click on inner Gift Vouchers.......................................skipped
+And user click on add button................................................skipped
+And user enter "","aaa","www@gmail.com","as","awer@gmail.com","good","123"..skipped
+And user select Theme,Status................................................skipped
+And click on save button....................................................skipped
+Then check the display message of gift voucher..............................skipped
+]]></system-out>
+</testcase>
+<testcase classname="sign up feature" name="Gift Vouchers ADD button with save 3" time="0">
+<system-out><![CDATA[Given User is on the Retail application.....................................skipped
+And User enter the username and password....................................skipped
+And click on login button...................................................skipped
+And User navigate to the Dashboard..........................................skipped
+And User click on Button-menue..............................................skipped
+And User click on Sales.....................................................skipped
+Then user click on Gift Vouchers............................................skipped
+And user click on inner Gift Vouchers.......................................skipped
+And user click on add button................................................skipped
+And user enter "1234837","","www@gmail.com","as","awer@gmail.com","good","123".skipped
+And user select Theme,Status................................................skipped
+And click on save button....................................................skipped
+Then check the display message of gift voucher..............................skipped
+]]></system-out>
+</testcase>
+<testcase classname="sign up feature" name="Gift Vouchers ADD button with save 4" time="0">
+<system-out><![CDATA[Given User is on the Retail application.....................................skipped
+And User enter the username and password....................................skipped
+And click on login button...................................................skipped
+And User navigate to the Dashboard..........................................skipped
+And User click on Button-menue..............................................skipped
+And User click on Sales.....................................................skipped
+Then user click on Gift Vouchers............................................skipped
+And user click on inner Gift Vouchers.......................................skipped
+And user click on add button................................................skipped
+And user enter "1234837","aaa","","as","awer@gmail.com","good","123"........skipped
+And user select Theme,Status................................................skipped
+And click on save button....................................................skipped
+Then check the display message of gift voucher..............................skipped
+]]></system-out>
+</testcase>
+<testcase classname="sign up feature" name="Gift Vouchers ADD button with save 5" time="0">
+<system-out><![CDATA[Given User is on the Retail application.....................................skipped
+And User enter the username and password....................................skipped
+And click on login button...................................................skipped
+And User navigate to the Dashboard..........................................skipped
+And User click on Button-menue..............................................skipped
+And User click on Sales.....................................................skipped
+Then user click on Gift Vouchers............................................skipped
+And user click on inner Gift Vouchers.......................................skipped
+And user click on add button................................................skipped
+And user enter "1234837","aaa","www@gmail.com","","awer@gmail.com","good","123".skipped
+And user select Theme,Status................................................skipped
+And click on save button....................................................skipped
+Then check the display message of gift voucher..............................skipped
+]]></system-out>
+</testcase>
+<testcase classname="sign up feature" name="Gift Vouchers ADD button with save 6" time="0">
+<system-out><![CDATA[Given User is on the Retail application.....................................skipped
+And User enter the username and password....................................skipped
+And click on login button...................................................skipped
+And User navigate to the Dashboard..........................................skipped
+And User click on Button-menue..............................................skipped
+And User click on Sales.....................................................skipped
+Then user click on Gift Vouchers............................................skipped
+And user click on inner Gift Vouchers.......................................skipped
+And user click on add button................................................skipped
+And user enter "1234837","aaa","www@gmail.com","as","","good","123".........skipped
+And user select Theme,Status................................................skipped
+And click on save button....................................................skipped
+Then check the display message of gift voucher..............................skipped
+]]></system-out>
+</testcase>
+<testcase classname="sign up feature" name="Gift Vouchers ADD button with save 7" time="0">
+<system-out><![CDATA[Given User is on the Retail application.....................................skipped
+And User enter the username and password....................................skipped
+And click on login button...................................................skipped
+And User navigate to the Dashboard..........................................skipped
+And User click on Button-menue..............................................skipped
+And User click on Sales.....................................................skipped
+Then user click on Gift Vouchers............................................skipped
+And user click on inner Gift Vouchers.......................................skipped
+And user click on add button................................................skipped
+And user enter "1234837","aaa","www@gmail.com","as","awer@gmail.com","good","".skipped
+And user select Theme,Status................................................skipped
+And click on save button....................................................skipped
+Then check the display message of gift voucher..............................skipped
+]]></system-out>
+</testcase>
+<testcase classname="sign up feature" name="Gift Vouchers ADD button with cancle" time="0">
+<system-out><![CDATA[Given User is on the Retail application.....................................skipped
+And User enter the username and password....................................skipped
+And click on login button...................................................skipped
+And User navigate to the Dashboard..........................................skipped
+And User click on Button-menue..............................................skipped
+And User click on Sales.....................................................skipped
+Then user click on Gift Vouchers............................................skipped
+And user click on inner Gift Vouchers.......................................skipped
+And user click on add button................................................skipped
+And user enter "132444233","aaa","www@gmail.com","as","awer@gmail.com","good","123".skipped
+And user select Theme,Status................................................skipped
+And click on cancle button..................................................skipped
+Then User navigate to dashboard of Gift voucher.............................skipped
+]]></system-out>
+</testcase>
+<testcase classname="sign up feature" name="Gift Vouchers EDIT button with SAVE button" time="0">
+<system-out><![CDATA[Given User is on the Retail application.....................................skipped
+And User enter the username and password....................................skipped
+And click on login button...................................................skipped
+And User navigate to the Dashboard..........................................skipped
+And User click on Button-menue..............................................skipped
+And User click on Sales.....................................................skipped
+Then user click on Gift Vouchers............................................skipped
+And user click on inner Gift Vouchers.......................................skipped
+And user click on check button..............................................skipped
+And User select on edit option..............................................skipped
+And user edit  "132443334","aaass","ww123w@gmail.com","awws","awe23r@gmail.com","good one","13323".skipped
+And user select Theme and Status............................................skipped
+And click on save button....................................................skipped
+Then check the displayed message............................................skipped
+]]></system-out>
+</testcase>
+<testcase classname="sign up feature" name="Gift Vouchers EDIT button with CANCLE" time="0">
+<system-out><![CDATA[Given User is on the Retail application.....................................skipped
+And User enter the username and password....................................skipped
+And click on login button...................................................skipped
+And User navigate to the Dashboard..........................................skipped
+And User click on Button-menue..............................................skipped
+And User click on Sales.....................................................skipped
+Then user click on Gift Vouchers............................................skipped
+And user click on inner Gift Vouchers.......................................skipped
+And user click on check button..............................................skipped
+And User select on edit option..............................................skipped
+And user edit  "132443334","aaass","ww123w@gmail.com","awws","awe23r@gmail.com","good one","13323".skipped
+And user select Theme and Status............................................skipped
+And click on cancle button..................................................skipped
+Then User navigate to dashboard of Gift voucher.............................skipped
+]]></system-out>
+</testcase>
+<testcase classname="sign up feature" name="Gift Vouchers DELETE button" time="0">
+<system-out><![CDATA[Given User is on the Retail application.....................................skipped
+And User enter the username and password....................................skipped
+And click on login button...................................................skipped
+And User navigate to the Dashboard..........................................skipped
+And User click on Button-menue..............................................skipped
+And User click on Sales.....................................................skipped
+Then user click on Gift Vouchers............................................skipped
+And user click on inner Gift Vouchers.......................................skipped
+And User click on the checkbox of new created record and delete record......skipped
+And User navigate to dashboard of Gift voucher..............................skipped
+]]></system-out>
+</testcase>
+<testcase classname="sign up feature" name="Gift Vouchers BULK action with SEND button" time="0">
+<system-out><![CDATA[Given User is on the Retail application.....................................skipped
+And User enter the username and password....................................skipped
+And click on login button...................................................skipped
+And User navigate to the Dashboard..........................................skipped
+And User click on Button-menue..............................................skipped
+And User click on Sales.....................................................skipped
+Then user click on Gift Vouchers............................................skipped
+And user click on inner Gift Vouchers.......................................skipped
+And User click on the bulk checkbox and Send record.........................skipped
+And User navigate to dashboard of Gift voucher..............................skipped
+]]></system-out>
+</testcase>
+<testcase classname="sign up feature" name="Gift Vouchers SORT function" time="0">
+<system-out><![CDATA[Given User is on the Retail application.....................................skipped
+And User enter the username and password....................................skipped
+And click on login button...................................................skipped
+And User navigate to the Dashboard..........................................skipped
+And User click on Button-menue..............................................skipped
+And User click on Sales.....................................................skipped
+Then user click on Gift Vouchers............................................skipped
+And user click on inner Gift Vouchers.......................................skipped
+And User want to check the sorting functionality on gift voucher............skipped
+]]></system-out>
+</testcase>
+<testcase classname="sign up feature" name="Gift Vouchers bug" time="0">
+<system-out><![CDATA[Given User is on the Retail application.....................................skipped
+And User enter the username and password....................................skipped
+And click on login button...................................................skipped
+And User navigate to the Dashboard..........................................skipped
+And User click on Button-menue..............................................skipped
+And User click on Sales.....................................................skipped
+Then user click on Gift Vouchers............................................skipped
+And user click on inner Gift Vouchers.......................................skipped
+And user click on add button................................................skipped
+And user enter the"1234837","aaa","www@gmail.com","as","awer@gmail.com","good","123".skipped
+And user select Theme,Status................................................skipped
+And click on save button....................................................skipped
+Then check the display message of gift voucher..............................skipped
+]]></system-out>
+</testcase>
+<testcase classname="sign up feature" name="Gift Vouchers bug 2" time="0">
+<system-out><![CDATA[Given User is on the Retail application.....................................skipped
+And User enter the username and password....................................skipped
+And click on login button...................................................skipped
+And User navigate to the Dashboard..........................................skipped
+And User click on Button-menue..............................................skipped
+And User click on Sales.....................................................skipped
+Then user click on Gift Vouchers............................................skipped
+And user click on inner Gift Vouchers.......................................skipped
+And user click on add button................................................skipped
+And user enter the"1234837","123","www@gmail.com","as","awer@gmail.com","good","123".skipped
+And user select Theme,Status................................................skipped
+And click on save button....................................................skipped
+Then check the display message of gift voucher..............................skipped
+]]></system-out>
+</testcase>
+<testcase classname="sign up feature" name="Gift Vouchers bug 3" time="0">
+<system-out><![CDATA[Given User is on the Retail application.....................................skipped
+And User enter the username and password....................................skipped
+And click on login button...................................................skipped
+And User navigate to the Dashboard..........................................skipped
+And User click on Button-menue..............................................skipped
+And User click on Sales.....................................................skipped
+Then user click on Gift Vouchers............................................skipped
+And user click on inner Gift Vouchers.......................................skipped
+And user click on add button................................................skipped
+And user enter the"1234837","@#$","www@gmail.com","as","awer@gmail.com","good","123".skipped
+And user select Theme,Status................................................skipped
+And click on save button....................................................skipped
+Then check the display message of gift voucher..............................skipped
+]]></system-out>
+</testcase>
+<testcase classname="sign up feature" name="Gift Vouchers bug 4" time="0">
+<system-out><![CDATA[Given User is on the Retail application.....................................skipped
+And User enter the username and password....................................skipped
+And click on login button...................................................skipped
+And User navigate to the Dashboard..........................................skipped
+And User click on Button-menue..............................................skipped
+And User click on Sales.....................................................skipped
+Then user click on Gift Vouchers............................................skipped
+And user click on inner Gift Vouchers.......................................skipped
+And user click on add button................................................skipped
+And user enter the"1234837","aaa","www@gmail.com","123","awer@gmail.com","good","123".skipped
+And user select Theme,Status................................................skipped
+And click on save button....................................................skipped
+Then check the display message of gift voucher..............................skipped
+]]></system-out>
+</testcase>
+<testcase classname="sign up feature" name="Gift Vouchers bug 5" time="0">
+<system-out><![CDATA[Given User is on the Retail application.....................................skipped
+And User enter the username and password....................................skipped
+And click on login button...................................................skipped
+And User navigate to the Dashboard..........................................skipped
+And User click on Button-menue..............................................skipped
+And User click on Sales.....................................................skipped
+Then user click on Gift Vouchers............................................skipped
+And user click on inner Gift Vouchers.......................................skipped
+And user click on add button................................................skipped
+And user enter the"1234837","aaa","www@gmail.com","@#$","awer@gmail.com","good","123".skipped
+And user select Theme,Status................................................skipped
+And click on save button....................................................skipped
+Then check the display message of gift voucher..............................skipped
+]]></system-out>
+</testcase>
+<testcase classname="sign up feature" name="Gift Vouchers bug 6" time="0">
+<system-out><![CDATA[Given User is on the Retail application.....................................skipped
+And User enter the username and password....................................skipped
+And click on login button...................................................skipped
+And User navigate to the Dashboard..........................................skipped
+And User click on Button-menue..............................................skipped
+And User click on Sales.....................................................skipped
+Then user click on Gift Vouchers............................................skipped
+And user click on inner Gift Vouchers.......................................skipped
+And user click on add button................................................skipped
+And user enter the"1234837","aaa","www@gmail.com","as","awer@gmail.com","good","123aaa".skipped
+And user select Theme,Status................................................skipped
+And click on save button....................................................skipped
+Then check the display message of gift voucher..............................skipped
+]]></system-out>
+</testcase>
+<testcase classname="sign up feature" name="Vouchers Theme ADD with SAVE" time="0">
+<system-out><![CDATA[Given User is on the Retail application.....................................skipped
+And User enter the username and password....................................skipped
+And click on login button...................................................skipped
+And User navigate to the Dashboard..........................................skipped
+And User click on Button-menue..............................................skipped
+And User click on Sales.....................................................skipped
+Then user click on Gift Vouchers............................................skipped
+And user click on  Vouchers Theme...........................................skipped
+And user click on add button of voucher theme...............................skipped
+And User enter data of "12236"..............................................skipped
+And user select image.......................................................skipped
+And click on save button of voucher theme...................................skipped
+Then check the display message of voucher theme.............................skipped
+]]></system-out>
+</testcase>
+<testcase classname="sign up feature" name="Vouchers Theme ADD with SAVE 2" time="0">
+<system-out><![CDATA[Given User is on the Retail application.....................................skipped
+And User enter the username and password....................................skipped
+And click on login button...................................................skipped
+And User navigate to the Dashboard..........................................skipped
+And User click on Button-menue..............................................skipped
+And User click on Sales.....................................................skipped
+Then user click on Gift Vouchers............................................skipped
+And user click on  Vouchers Theme...........................................skipped
+And user click on add button of voucher theme...............................skipped
+And User enter data of ""...................................................skipped
+And user select image.......................................................skipped
+And click on save button of voucher theme...................................skipped
+Then check the display message of voucher theme.............................skipped
+]]></system-out>
+</testcase>
+<testcase classname="sign up feature" name="Vouchers Theme ADD with CANCLE" time="0">
+<system-out><![CDATA[Given User is on the Retail application.....................................skipped
+And User enter the username and password....................................skipped
+And click on login button...................................................skipped
+And User navigate to the Dashboard..........................................skipped
+And User click on Button-menue..............................................skipped
+And User click on Sales.....................................................skipped
+Then user click on Gift Vouchers............................................skipped
+And user click on  Vouchers Theme...........................................skipped
+And user click on add button of voucher theme...............................skipped
+And User enter data of "43356"..............................................skipped
+And user select image.......................................................skipped
+And User click on cancle button.............................................skipped
+Then User navigate to dashboard of voucher theme............................skipped
+]]></system-out>
+</testcase>
+<testcase classname="sign up feature" name="Vouchers Theme EDIT button with SAVE" time="0">
+<system-out><![CDATA[Given User is on the Retail application.....................................skipped
+And User enter the username and password....................................skipped
+And click on login button...................................................skipped
+And User navigate to the Dashboard..........................................skipped
+And User click on Button-menue..............................................skipped
+And User click on Sales.....................................................skipped
+Then user click on Gift Vouchers............................................skipped
+And user click on  Vouchers Theme...........................................skipped
+And User click on checkbox..................................................skipped
+And user click on edit button of voucher theme..............................skipped
+And User edit the data from "2322"..........................................skipped
+And user edit the image.....................................................skipped
+And click on save button of voucher theme...................................skipped
+Then check the displayed message............................................skipped
+]]></system-out>
+</testcase>
+<testcase classname="sign up feature" name="Vouchers Theme EDIT button with cancle" time="0">
+<system-out><![CDATA[Given User is on the Retail application.....................................skipped
+And User enter the username and password....................................skipped
+And click on login button...................................................skipped
+And User navigate to the Dashboard..........................................skipped
+And User click on Button-menue..............................................skipped
+And User click on Sales.....................................................skipped
+Then user click on Gift Vouchers............................................skipped
+And user click on  Vouchers Theme...........................................skipped
+And User click on checkbox..................................................skipped
+And user click on edit button of voucher theme..............................skipped
+And User edit the data from "23222".........................................skipped
+And user edit the image.....................................................skipped
+And User click on cancle button.............................................skipped
+Then User navigate to dashboard of voucher theme............................skipped
+]]></system-out>
+</testcase>
+<testcase classname="sign up feature" name="Vouchers Theme DELETE  button" time="0">
+<system-out><![CDATA[Given User is on the Retail application.....................................skipped
+And User enter the username and password....................................skipped
+And click on login button...................................................skipped
+And User navigate to the Dashboard..........................................skipped
+And User click on Button-menue..............................................skipped
+And User click on Sales.....................................................skipped
+Then user click on Gift Vouchers............................................skipped
+And user click on  Vouchers Theme...........................................skipped
+And User click on the checkbox of created record and delete record..........skipped
+Then User navigate to dashboard of voucher theme............................skipped
+]]></system-out>
+</testcase>
+<testcase classname="sign up feature" name="Vuchers Theme SORT function" time="0">
+<system-out><![CDATA[Given User is on the Retail application.....................................skipped
+And User enter the username and password....................................skipped
+And click on login button...................................................skipped
+And User navigate to the Dashboard..........................................skipped
+And User click on Button-menue..............................................skipped
+And User click on Sales.....................................................skipped
+Then user click on Gift Vouchers............................................skipped
+And user click on  Vouchers Theme...........................................skipped
+And User want to check the sorting functionality on voucher theme...........skipped
+And User check bulk functionality...........................................skipped
+]]></system-out>
+</testcase>
+<testcase classname="sign up feature" name="Returns" time="0">
+<system-out><![CDATA[Given User is on the Retail application.....................................skipped
+And User enter the username and password....................................skipped
+And click on login button...................................................skipped
+And User navigate to the Dashboard..........................................skipped
+And User click on Button-menue..............................................skipped
+Then User click on Sales....................................................skipped
+And User click on returns...................................................skipped
+Then Click on Add button....................................................skipped
+And Enter the "12344344234","2010-9-7", "anju","anju","cha","anju@gmail.com","23456789","Adfd","12345","12","not a good".skipped
+Then User select the Return_Reason and Opened and Return_Action and Return_Status.skipped
+Then User click on save  button.............................................skipped
+And check the displayed message.............................................skipped
+]]></system-out>
+</testcase>
+<testcase classname="sign up feature" name="Returns_2" time="0">
+<system-out><![CDATA[Given User is on the Retail application.....................................skipped
+And User enter the username and password....................................skipped
+And click on login button...................................................skipped
+And User navigate to the Dashboard..........................................skipped
+And User click on Button-menue..............................................skipped
+Then User click on Sales....................................................skipped
+And User click on returns...................................................skipped
+Then Click on Add button....................................................skipped
+And Enter the "12345","2010-9-7", "@#$%","anju","cha","anju@gmail.com","23456789","Adfd","12345","@#$","not a good".skipped
+Then User select the Return_Reason and Opened and Return_Action and Return_Status.skipped
+Then User click on cancle button............................................skipped
+And user navigate to dashboard..............................................skipped
+]]></system-out>
+</testcase>
+<testcase classname="sign up feature" name="Bug present in Return product" time="0">
+<system-out><![CDATA[Given User is on the Retail application.....................................skipped
+And User enter the username and password....................................skipped
+And click on login button...................................................skipped
+And User navigate to the Dashboard..........................................skipped
+And User click on Button-menue..............................................skipped
+Then User click on Sales....................................................skipped
+And User click on returns...................................................skipped
+And Click on Add button.....................................................skipped
+And User Enter the "12344344234","2010-9-7", "anju","anju","cha","anju@gmail.com","23456789","Adfd","12345","12","not a good".skipped
+And User select the Return_Reason and Opened and Return_Action and Return_Status.skipped
+And User click on save  button..............................................skipped
+Then check the displayed message............................................skipped
+]]></system-out>
+</testcase>
+<testcase classname="sign up feature" name="Bug present in Return product 2" time="0">
+<system-out><![CDATA[Given User is on the Retail application.....................................skipped
+And User enter the username and password....................................skipped
+And click on login button...................................................skipped
+And User navigate to the Dashboard..........................................skipped
+And User click on Button-menue..............................................skipped
+Then User click on Sales....................................................skipped
+And User click on returns...................................................skipped
+And Click on Add button.....................................................skipped
+And User Enter the "qqqqqqq","2010-9-7", "anju","anju","cha","anju@gmail.com","23456789121312","Adfd","12345","12","not a good".skipped
+And User select the Return_Reason and Opened and Return_Action and Return_Status.skipped
+And User click on save  button..............................................skipped
+Then check the displayed message............................................skipped
+]]></system-out>
+</testcase>
+<testcase classname="sign up feature" name="Bug present in Return product 3" time="0">
+<system-out><![CDATA[Given User is on the Retail application.....................................skipped
+And User enter the username and password....................................skipped
+And click on login button...................................................skipped
+And User navigate to the Dashboard..........................................skipped
+And User click on Button-menue..............................................skipped
+Then User click on Sales....................................................skipped
+And User click on returns...................................................skipped
+And Click on Add button.....................................................skipped
+And User Enter the "12344qqqqq","2010-9-7", "anju","anju","cha","anju@gmail.com","dfdsaf","Adfd","12345","12","not a good".skipped
+And User select the Return_Reason and Opened and Return_Action and Return_Status.skipped
+And User click on save  button..............................................skipped
+Then check the displayed message............................................skipped
+]]></system-out>
+</testcase>
+<testcase classname="sign up feature" name="Bug present in Return product 4" time="0">
+<system-out><![CDATA[Given User is on the Retail application.....................................skipped
+And User enter the username and password....................................skipped
+And click on login button...................................................skipped
+And User navigate to the Dashboard..........................................skipped
+And User click on Button-menue..............................................skipped
+Then User click on Sales....................................................skipped
+And User click on returns...................................................skipped
+And Click on Add button.....................................................skipped
+And User Enter the "@#$%","2010-9-7", "anju","anju","cha","anju@gmail.com","dsfsa345","Adfd","12345","12","not a good".skipped
+And User select the Return_Reason and Opened and Return_Action and Return_Status.skipped
+And User click on save  button..............................................skipped
+Then check the displayed message............................................skipped
+]]></system-out>
+</testcase>
+<testcase classname="sign up feature" name="Bug present in Return product 5" time="0">
+<system-out><![CDATA[Given User is on the Retail application.....................................skipped
+And User enter the username and password....................................skipped
+And click on login button...................................................skipped
+And User navigate to the Dashboard..........................................skipped
+And User click on Button-menue..............................................skipped
+Then User click on Sales....................................................skipped
+And User click on returns...................................................skipped
+And Click on Add button.....................................................skipped
+And User Enter the "12344344234","7-9-2010", "anju","anju","cha","anju@gmail.com","@#$%","Adfd","12345","12","not a good".skipped
+And User select the Return_Reason and Opened and Return_Action and Return_Status.skipped
+And User click on save  button..............................................skipped
+Then check the displayed message............................................skipped
+]]></system-out>
+</testcase>
+<testcase classname="sign up feature" name="Bug present in Return product 6" time="0">
+<system-out><![CDATA[Given User is on the Retail application.....................................skipped
+And User enter the username and password....................................skipped
+And click on login button...................................................skipped
+And User navigate to the Dashboard..........................................skipped
+And User click on Button-menue..............................................skipped
+Then User click on Sales....................................................skipped
+And User click on returns...................................................skipped
+And Click on Add button.....................................................skipped
+And User Enter the "12344344234","2010-9-7", "anju","anju","cha","anju@gmail.com","23456789","Adfd","12345","aaaa","not a good".skipped
+And User select the Return_Reason and Opened and Return_Action and Return_Status.skipped
+And User click on save  button..............................................skipped
+Then check the displayed message............................................skipped
+]]></system-out>
+</testcase>
+<testcase classname="sign up feature" name="Bug present in Return product 7" time="0">
+<system-out><![CDATA[Given User is on the Retail application.....................................skipped
+And User enter the username and password....................................skipped
+And click on login button...................................................skipped
+And User navigate to the Dashboard..........................................skipped
+And User click on Button-menue..............................................skipped
+Then User click on Sales....................................................skipped
+And User click on returns...................................................skipped
+And Click on Add button.....................................................skipped
+And User Enter the "12344344234","2010-9-7", "anju","anju","cha","anju@gmail.com","23456789","Adfd","12345","asas12","not a good".skipped
+And User select the Return_Reason and Opened and Return_Action and Return_Status.skipped
+And User click on save  button..............................................skipped
+Then check the displayed message............................................skipped
+]]></system-out>
+</testcase>
+<testcase classname="sign up feature" name="Bug present in Return product 8" time="0">
+<system-out><![CDATA[Given User is on the Retail application.....................................skipped
+And User enter the username and password....................................skipped
+And click on login button...................................................skipped
+And User navigate to the Dashboard..........................................skipped
+And User click on Button-menue..............................................skipped
+Then User click on Sales....................................................skipped
+And User click on returns...................................................skipped
+And Click on Add button.....................................................skipped
+And User Enter the "12344344234","2010-9-7", "anju","anju","cha","anju@gmail.com","23456789","Adfd","12345","@@#$","not a good".skipped
+And User select the Return_Reason and Opened and Return_Action and Return_Status.skipped
+And User click on save  button..............................................skipped
+Then check the displayed message............................................skipped
+]]></system-out>
+</testcase>
+<testcase classname="sign up feature" name="Bug present in Return product 9" time="0">
+<system-out><![CDATA[Given User is on the Retail application.....................................skipped
+And User enter the username and password....................................skipped
+And click on login button...................................................skipped
+And User navigate to the Dashboard..........................................skipped
+And User click on Button-menue..............................................skipped
+Then User click on Sales....................................................skipped
+And User click on returns...................................................skipped
+And Click on Add button.....................................................skipped
+And User Enter the "qqqqqqq","2010-9-7", "anju","1234","cha","anju@gmail.com","23456789121312","Adfd","12345","12","not a good".skipped
+And User select the Return_Reason and Opened and Return_Action and Return_Status.skipped
+And User click on save  button..............................................skipped
+Then check the displayed message............................................skipped
+]]></system-out>
+</testcase>
+<testcase classname="sign up feature" name="Bug present in Return product 10" time="0">
+<system-out><![CDATA[Given User is on the Retail application.....................................skipped
+And User enter the username and password....................................skipped
+And click on login button...................................................skipped
+And User navigate to the Dashboard..........................................skipped
+And User click on Button-menue..............................................skipped
+Then User click on Sales....................................................skipped
+And User click on returns...................................................skipped
+And Click on Add button.....................................................skipped
+And User Enter the "12344qqqqq","2010-9-7", "anju","@#$","cha","anju@gmail.com","dfdsaf","Adfd","12345","12","not a good".skipped
+And User select the Return_Reason and Opened and Return_Action and Return_Status.skipped
+And User click on save  button..............................................skipped
+Then check the displayed message............................................skipped
+]]></system-out>
+</testcase>
+<testcase classname="sign up feature" name="Bug present in Return product 11" time="0">
+<system-out><![CDATA[Given User is on the Retail application.....................................skipped
+And User enter the username and password....................................skipped
+And click on login button...................................................skipped
+And User navigate to the Dashboard..........................................skipped
+And User click on Button-menue..............................................skipped
+Then User click on Sales....................................................skipped
+And User click on returns...................................................skipped
+And Click on Add button.....................................................skipped
+And User Enter the "@#$%","2010-9-7", "anju","anju","123","anju@gmail.com","dsfsa345","Adfd","12345","12","not a good".skipped
+And User select the Return_Reason and Opened and Return_Action and Return_Status.skipped
+And User click on save  button..............................................skipped
+Then check the displayed message............................................skipped
+]]></system-out>
+</testcase>
+<testcase classname="sign up feature" name="Bug present in Return product 12" time="0">
+<system-out><![CDATA[Given User is on the Retail application.....................................skipped
+And User enter the username and password....................................skipped
+And click on login button...................................................skipped
+And User navigate to the Dashboard..........................................skipped
+And User click on Button-menue..............................................skipped
+Then User click on Sales....................................................skipped
+And User click on returns...................................................skipped
+And Click on Add button.....................................................skipped
+And User Enter the "qqqqqqq","2010-9-7", "anju","anju","@#$%","anju@gmail.com","23456789121312","Adfd","12345","12","not a good".skipped
+And User select the Return_Reason and Opened and Return_Action and Return_Status.skipped
+And User click on save  button..............................................skipped
+Then check the displayed message............................................skipped
+]]></system-out>
+</testcase>
+<testcase classname="sign up feature" name="Bug present in Return product 13" time="0">
+<system-out><![CDATA[Given User is on the Retail application.....................................skipped
+And User enter the username and password....................................skipped
+And click on login button...................................................skipped
+And User navigate to the Dashboard..........................................skipped
+And User click on Button-menue..............................................skipped
+Then User click on Sales....................................................skipped
+And User click on returns...................................................skipped
+And Click on Add button.....................................................skipped
+And User Enter the "12344344234","2010-9-7", "anju","anju","cha","anju@gmail.com","dfdsaf","Adfd","12345","12","not a good".skipped
+And User select the Return_Reason and Opened and Return_Action and Return_Status.skipped
+And User click on save  button..............................................skipped
+Then check the displayed message............................................skipped
+]]></system-out>
+</testcase>
+</testsuite>
